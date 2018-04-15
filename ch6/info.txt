@@ -1,0 +1,5 @@
+
+Model: lol
+Year: 12
+Starting price: 12.00
+Now asking: 10.96
